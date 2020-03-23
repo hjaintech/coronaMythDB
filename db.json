@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "mythText": "dummy myth text 1",
+      "truthText": "dummy truth text 1"
+    },
+    {
+      "mythText": "dummy myth text 2",
+      "truthText": "dummy truth text 2"
+    }
+  ]
+}
